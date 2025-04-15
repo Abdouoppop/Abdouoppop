@@ -20,10 +20,14 @@ App developer with Flutter
 
 <p align="left"> <a href="https://discord.com/users/abdouoppop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Abdouoppop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdelrahman-ashraf-3ab2b421a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Problem solving
+<a href="https://www.codewars.com/users/Abdou.oppop/badges/large">
+    <img src="https://www.codewars.com/users/Abdou.oppop/badges/large" alt="Top Langs" />
+</a>
 
 ### My Stats
 
-<p align="left">
+<p align="center">
   <span style="display: flex; gap: 10px;">
     <a href="https://github.com/Abdouoppop">
       <img src="https://github-readme-stats-gamma-sable-39.vercel.app/api?username=Abdouoppop&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Abdouoppop's GitHub stats" />
@@ -31,15 +35,12 @@ App developer with Flutter
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=Abdouoppop&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </a>
-  </span>
-
-  
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Abdouoppop/github-readme-stats">
+     <a href="https://github.com/Abdouoppop/github-readme-stats">
     <img src="https://github-readme-stats-gamma-sable-39.vercel.app/api/top-langs/?username=Abdouoppop&layout=donut&theme=transparent&hide_border=true" alt="Top Langs" />
   </a>
+  </span>
 </p>
+
+
+
 
